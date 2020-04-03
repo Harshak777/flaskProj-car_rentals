@@ -1,0 +1,118 @@
+.mediaViewInfo {
+	--web-view-name: welcome – 1;
+	--web-view-id: welcome___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: welcome___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#welcome___1 {
+	position: absolute;
+	width: 1920px;
+	height: 975px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: welcome – 1;
+	--web-view-id: welcome___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_3 {
+	position: absolute;
+	width: 549px;
+	height: 482px;
+	left: 686px;
+	top: 247px;
+	overflow: visible;
+}
+#WELCOME__ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 550px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#login_btn {
+	position: absolute;
+	width: 439px;
+	height: 76px;
+	left: 55px;
+	top: 304px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#LOGIN {
+	position: absolute;
+	left: 143px;
+	top: 5px;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#signup_btn {
+	position: absolute;
+	width: 439px;
+	height: 76px;
+	left: 55px;
+	top: 406px;
+	overflow: visible;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#SIGNUP {
+	position: absolute;
+	left: 127px;
+	top: 5px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+  }
